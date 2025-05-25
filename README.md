@@ -1,6 +1,6 @@
 # Hi there, I'm Sathvik! 👋
 
-🎓 **Student at IIT Tirupati** | **Full-stack Enthusiast**
+🎓 **Student at Indian Institute of Technology, Tirupati** | **Full-stack Enthusiast**
 
 ---
 
