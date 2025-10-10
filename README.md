@@ -45,6 +45,6 @@ Sathvik Pilyanam
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sathvik-pilyanam/)  
 - 💻 [GitHub](https://github.com/yourusername)  
-- 📧 cs23b042@iittp.ac.in and pilyanam2014@gmai.com
+- 📧 cs23b042@iittp.ac.in and pilyanam2014@gmail.com
 
 ---
