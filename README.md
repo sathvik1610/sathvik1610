@@ -1,7 +1,15 @@
-# Hi, I'm Sathvik Pilyanam  
+<div align="center">
+  <h1>
+Sathvik Pilyanam
+  </h1>
 
-🎓Computer Science and Engineering Undergrad @ IIT Tirupati | 💻 Aspiring Software Developer  
-  Passionate about building impactful software, clean UIs & AI-driven tools
+    
+  <h3>
+  🎓Computer Science and Engineering Undergrad @ IIT Tirupati'2027 | 💻 Aspiring Software Developer  
+  Passionate about building impactful software, coding. Active and fast learner, love to be part of something.
+  </h3>
+  </div>
+
 
  
 
@@ -12,7 +20,7 @@
 **Languages**: C/C++, Python, JavaScript, TypeScript, Java  
 **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS  
 **Backend**: Node.js, Express.js, MongoDB, REST APIs  
-**DevOps & Tools**: Git, Docker, GitHub Actions, Render, Postman, Figma  
+**DevOps & Tools**: Git, Docker, GitHub Actions, Render, Postman
 **Others**: SQL, Firebase, Supabase, Google Cloud, Linux  
 
 ---
@@ -37,6 +45,6 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sathvik-pilyanam/)  
 - 💻 [GitHub](https://github.com/yourusername)  
-- 📧 cs23b042@iittp.ac.in  
+- 📧 cs23b042@iittp.ac.in and pilyanam2014@gmai.com
 
 ---
