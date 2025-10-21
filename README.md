@@ -6,7 +6,7 @@ Sathvik Pilyanam
     
   <h3>
   Computer Science and Engineering Undergrad @ IIT Tirupati'2027 | 💻 Aspiring Software Developer  
-  Passionate about building impactful software, coding. Active and fast learner, love to be part of something.
+  Passionate about building impactful software, coding. Active and fast learner, love to be part of meaningful projects.
   </h3>
   </div>
 
